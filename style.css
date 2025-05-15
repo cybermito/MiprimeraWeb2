@@ -1,0 +1,39 @@
+/* Comentarios en un archivo CSS */
+/* Tipos de selectores */
+/* básicos */
+
+/* Selector Universal */
+
+* {
+    background-color: blanchedalmond;
+}
+
+/* selector de elemento */
+h1, h2, p {
+    background-color: rgb(13, 1, 1);
+    color: rgb(201, 248, 185);
+}
+
+/*
+h2 {
+    background-color: red;
+    color: antiquewhite;
+} */
+
+/* selector de id */
+
+#hero {
+    background-color: black;
+    color: greenyellow;
+}
+
+/* selector de clase */
+
+.post {
+    font-family: monospace;
+    background-color: black;
+    color: greenyellow;
+    padding: 5px;
+
+}
+
